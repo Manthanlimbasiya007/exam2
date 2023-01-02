@@ -30,7 +30,7 @@ class _homepageState extends State<homepage> {
           child: Padding(padding: EdgeInsets.all(20),
             child: TextField(decoration: InputDecoration(
                 hintText: "search",prefixIconColor: Colors.white,prefixIcon: Icon(Icons.search_outlined,color: Colors.white,)),
-              
+
                 ),
               ),
             )
